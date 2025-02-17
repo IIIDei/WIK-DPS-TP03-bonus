@@ -14,6 +14,9 @@ Ce bonus déploie une architecture 3 tiers avec :
 ## Lancer l'architecture
 
 1. Clonez ce repository.
+   ```bash
+   git clone git@github.com:IIIDei/WIK-DPS-TP03-bonus.git
+   ```
 2. Dans le dossier du projet, lancez :
    ```bash
    sudo docker compose up --build -d
